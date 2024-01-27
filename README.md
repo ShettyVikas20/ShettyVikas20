@@ -1,8 +1,6 @@
 <h1 align="center">Hey There 👋, I'm Vikas </h1>
 <h3 align="center">Welcome to my GitHub profile! 👨‍💻 A versatile professional with a passion for data analytics and a flair for development 📊.</h3>
 
-<img src="https://reactiongifs.me/cdn-cgi/imagedelivery/S36QsAbHn6yI9seDZ7V8aA/38434155-d1ec-4933-5b1e-94a07a5b6500/w=500.gif" align="center">
-
 - 🔭 I’m currently working on **Machine Learning Domain**
 
 - 🌱 I’m currently learning **LLMs, GenAI**
@@ -32,6 +30,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shettyvikas20&label=Profile%20views&color=0e75b6&style=flat" alt="shettyvikas20" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shettyvikas20" alt="shettyvikas20" /></a> </p>
+
+<p align="center">
+  <img src="https://reactiongifs.me/cdn-cgi/imagedelivery/S36QsAbHn6yI9seDZ7V8aA/38434155-d1ec-4933-5b1e-94a07a5b6500/w=500.gif" alt="Centered Image">
+</p>
 
 <!--
 **ShettyVikas20/ShettyVikas20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
