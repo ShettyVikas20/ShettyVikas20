@@ -1,6 +1,7 @@
-<img src="https://reactiongifs.me/cdn-cgi/imagedelivery/S36QsAbHn6yI9seDZ7V8aA/38434155-d1ec-4933-5b1e-94a07a5b6500/w=500.gif">
 <h1 align="center">Hey There 👋, I'm Vikas </h1>
 <h3 align="center">Welcome to my GitHub profile! 👨‍💻 A versatile professional with a passion for data analytics and a flair for development 📊.</h3>
+
+<img src="https://reactiongifs.me/cdn-cgi/imagedelivery/S36QsAbHn6yI9seDZ7V8aA/38434155-d1ec-4933-5b1e-94a07a5b6500/w=500.gif" align="center">
 
 - 🔭 I’m currently working on **Machine Learning Domain**
 
