@@ -1,10 +1,6 @@
 <h1 align="center">Hello Folks 👋, I'm Vikas R Shetty</h1>
 <h3 align="center">Welcome to my GitHub profile! 👨‍💻 A versatile professional with a passion for data analysis and a flair for development 📊.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shettyvikas20&label=Profile%20views&color=0e75b6&style=flat" alt="shettyvikas20" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shettyvikas20" alt="shettyvikas20" /></a> </p>
-
 - 🔭 I’m currently working on **Machine Learning Domain**
 
 - 🌱 I’m currently learning **LLMs, GenAI**
@@ -31,6 +27,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shettyvikas20&" alt="shettyvikas20" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shettyvikas20&label=Profile%20views&color=0e75b6&style=flat" alt="shettyvikas20" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shettyvikas20" alt="shettyvikas20" /></a> </p>
 
 <!--
 **ShettyVikas20/ShettyVikas20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
