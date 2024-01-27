@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Freactiongifs.me%2Fpage%2F12%2F&psig=AOvVaw3BN79SgSfSJ0S28oZVNYlm&ust=1706424138191000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMizzMr7_IMDFQAAAAAdAAAAABAO">
+<img src="https://reactiongifs.me/cdn-cgi/imagedelivery/S36QsAbHn6yI9seDZ7V8aA/38434155-d1ec-4933-5b1e-94a07a5b6500/w=500.gif">
 <h1 align="center">Hey There 👋, I'm Vikas </h1>
 <h3 align="center">Welcome to my GitHub profile! 👨‍💻 A versatile professional with a passion for data analytics and a flair for development 📊.</h3>
 
