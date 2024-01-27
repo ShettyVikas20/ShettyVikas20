@@ -1,3 +1,4 @@
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Freactiongifs.me%2Fpage%2F12%2F&psig=AOvVaw3BN79SgSfSJ0S28oZVNYlm&ust=1706424138191000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMizzMr7_IMDFQAAAAAdAAAAABAO">
 <h1 align="center">Hey There 👋, I'm Vikas </h1>
 <h3 align="center">Welcome to my GitHub profile! 👨‍💻 A versatile professional with a passion for data analytics and a flair for development 📊.</h3>
 
