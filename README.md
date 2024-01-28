@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShettyVikas20](https://github.com/ShettyVikas20)
 
-- 📫 How to reach me **shettyvikas03@gmail.com**
+- 📫 You can reach me at **shettyvikas03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
