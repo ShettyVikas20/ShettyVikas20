@@ -27,6 +27,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shettyvikas20&" alt="shettyvikas20" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shettyvikas20&label=Profile%20views&color=0e75b6&style=flat" alt="shettyvikas20" /> </p>
+
+
+
 
 <p align="center">
   <img src="https://reactiongifs.me/cdn-cgi/imagedelivery/S36QsAbHn6yI9seDZ7V8aA/38434155-d1ec-4933-5b1e-94a07a5b6500/w=500.gif" alt="Centered Image">
