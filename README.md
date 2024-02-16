@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **LLMs, GenAI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShettyVikas20](https://github.com/ShettyVikas20)
+- 👨‍💻 My projects are available at [https://github.com/ShettyVikas20](https://github.com/ShettyVikas20)
 
 - 📫 You can reach me at **shettyvikas03@gmail.com**
 
