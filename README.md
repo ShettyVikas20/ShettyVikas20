@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋, I'm Vikas </h1>
-<h3 align="center">Welcome to my GitHub profile! 👨‍💻 A versatile professional with a passion for Data Science and a flair for Development 📊.</h3>
+<h3 align="center">Welcome to my GitHub profile! 👨‍💻 A versatile professional with a passion for Data Science and a flair for Development 📊</h3>
 
 - 🔭 I’m currently working on **Machine Learning Domain**
 
